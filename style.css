@@ -23,3 +23,11 @@ head {
   justify-content: center;
   align-items: center;
 }
+
+.eyes,
+.brows {
+  position: absolute;
+  width: 195px;
+  display: flex;
+  justify-content: space-between;
+}
