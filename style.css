@@ -95,3 +95,11 @@ head {
   border-left-width: 1px;
   border-top-width: 2px;
 }
+
+.ears {
+  z-index: -1;
+  position: absolute;
+  width: 340px;
+  display: flex;
+  justify-content: space-between;
+}
