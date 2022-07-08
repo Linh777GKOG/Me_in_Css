@@ -154,3 +154,9 @@ head {
   top: 115px;
   left: 5px;
 }
+
+.hair-corner::after {
+  left: initial;
+  right: 5px;
+  transform: rotate(-45deg);
+}
