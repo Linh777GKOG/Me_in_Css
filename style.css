@@ -13,3 +13,13 @@ body {
   margin: 0;
   background-color: hsl(200, 50%, 12%);
 }
+
+head {
+  background: hsl(19, 76%, 88%);
+  width: 300px;
+  height: 340px;
+  border-radius: 70% 70% 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
