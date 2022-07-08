@@ -137,3 +137,8 @@ head {
 .hair::after {
   right: 0;
 }
+
+.hair-corner {
+  position: absolute;
+  width: 100%;
+}
