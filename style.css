@@ -133,3 +133,7 @@ head {
   width: 10px;
   transform: translateY(100%);
 }
+
+.hair::after {
+  right: 0;
+}
