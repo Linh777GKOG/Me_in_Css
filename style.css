@@ -65,3 +65,10 @@ head {
   margin-left: 15px;
   margin-bottom: 7px;
 }
+.brow {
+  width: 65px;
+  height: 32px;
+  border-top: 10px solid hsl(27, 33%, 28%);
+  border-radius: 100%;
+  margin-bottom: 35px;
+}
