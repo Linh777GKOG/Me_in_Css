@@ -111,3 +111,7 @@ head {
   background: hsl(19, 76%, 85%);
   border-radius: 0 100% 100% 0;
 }
+
+.ear:first-child {
+  border-radius: 100% 0 0 100%;
+}
