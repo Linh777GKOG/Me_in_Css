@@ -31,3 +31,17 @@ head {
   display: flex;
   justify-content: space-between;
 }
+
+.eye {
+  background-color: white;
+  height: 40px;
+  width: 65px;
+  border-radius: 100%;
+  border-top: 3px solid hsl(19, 46%, 68%);
+  border-bottom: 3px solid hsl(19, 46%, 68%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
