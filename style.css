@@ -142,3 +142,15 @@ head {
   position: absolute;
   width: 100%;
 }
+
+.hair-corner::before,
+.hair-corner::after {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 20px;
+  transform: rotate(45deg);
+  background-color: hsl(27, 33%, 28%);
+  top: 115px;
+  left: 5px;
+}
