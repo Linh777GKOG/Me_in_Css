@@ -55,3 +55,13 @@ head {
   margin-left: 10px;
   margin-bottom: 5px;
 }
+.eye::after {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #333;
+  border-radius: 100%;
+  margin-left: 15px;
+  margin-bottom: 7px;
+}
