@@ -45,3 +45,13 @@ head {
   overflow: hidden;
   position: relative;
 }
+.eye::before {
+  content: '';
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  background-color: hsl(78, 10%, 42%);
+  border-radius: 100%;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
